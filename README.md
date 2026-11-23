@@ -10,9 +10,10 @@ I build **PlayStation homebrew**, **Android apps**, and pretty much anything els
 ## Off the keyboard
 - 🎵 Music: listening to it, and making noises with code
 - 🐾 Animals: always
+- 🤔 Politics 
 
 ## Currently
 - Working on **Lantern Miner**, a cosy cavern platformer for PS5
 - Learning more Dart and advanced Python
 
-Always happy to collaborate on Flutter and Python projects.
+Always happy to collaborate on  projects.
