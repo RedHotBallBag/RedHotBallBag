@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @RedHotBallBag
-- 👀 I’m interested in Music and Programming
-- 🌱 I’m currently learning Dart and advanced python
-- 💞️ I’m looking to collaborate on Flutter & Python projects
-- 📫 How to reach me superfurry999@gmail.com
+# Hi, I'm RedHotBallBag 👋
 
-<!---
-RedHotBallBag/RedHotBallBag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build **PlayStation homebrew**, **Android apps**, and pretty much anything else I can take apart and put back together.
+
+## What I do
+- 🎮 **PlayStation homebrew** – porting games and tools to run natively on jailbroken PS5 (Vulkan, C)
+- 📱 **Android apps** – Flutter and Dart
+- 🔧 **General tinkering** – Python, emulators, reverse engineering, odd little side projects
+
+## Off the keyboard
+- 🎵 Music: listening to it, and making noises with code
+- 🐾 Animals: always
+
+## Currently
+- Working on **Lantern Miner**, a cosy cavern platformer for PS5
+- Learning more Dart and advanced Python
+
+Always happy to collaborate on Flutter and Python projects.
